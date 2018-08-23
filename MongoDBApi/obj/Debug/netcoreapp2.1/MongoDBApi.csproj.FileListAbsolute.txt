@@ -1,0 +1,14 @@
+C:\Users\pvhoang\source\repos\MongoDBApi\MongoDBApi\bin\Debug\netcoreapp2.1\MongoDBApi.deps.json
+C:\Users\pvhoang\source\repos\MongoDBApi\MongoDBApi\bin\Debug\netcoreapp2.1\MongoDBApi.runtimeconfig.json
+C:\Users\pvhoang\source\repos\MongoDBApi\MongoDBApi\bin\Debug\netcoreapp2.1\MongoDBApi.runtimeconfig.dev.json
+C:\Users\pvhoang\source\repos\MongoDBApi\MongoDBApi\bin\Debug\netcoreapp2.1\MongoDBApi.dll
+C:\Users\pvhoang\source\repos\MongoDBApi\MongoDBApi\obj\Debug\netcoreapp2.1\MongoDBApi.csprojAssemblyReference.cache
+C:\Users\pvhoang\source\repos\MongoDBApi\MongoDBApi\obj\Debug\netcoreapp2.1\MongoDBApi.csproj.CoreCompileInputs.cache
+C:\Users\pvhoang\source\repos\MongoDBApi\MongoDBApi\obj\Debug\netcoreapp2.1\MongoDBApi.RazorAssemblyInfo.cache
+C:\Users\pvhoang\source\repos\MongoDBApi\MongoDBApi\obj\Debug\netcoreapp2.1\MongoDBApi.RazorAssemblyInfo.cs
+C:\Users\pvhoang\source\repos\MongoDBApi\MongoDBApi\obj\Debug\netcoreapp2.1\MongoDBApi.AssemblyInfoInputs.cache
+C:\Users\pvhoang\source\repos\MongoDBApi\MongoDBApi\obj\Debug\netcoreapp2.1\MongoDBApi.AssemblyInfo.cs
+C:\Users\pvhoang\source\repos\MongoDBApi\MongoDBApi\obj\Debug\netcoreapp2.1\MongoDBApi.RazorTargetAssemblyInfo.cache
+C:\Users\pvhoang\source\repos\MongoDBApi\MongoDBApi\bin\Debug\netcoreapp2.1\MongoDBApi.pdb
+C:\Users\pvhoang\source\repos\MongoDBApi\MongoDBApi\obj\Debug\netcoreapp2.1\MongoDBApi.dll
+C:\Users\pvhoang\source\repos\MongoDBApi\MongoDBApi\obj\Debug\netcoreapp2.1\MongoDBApi.pdb
